@@ -1,3 +1,7 @@
+v1.17.7-hola.3 / 2016-10-29
+
+  * Include patched lolex
+
 v1.17.7-hola.2 / 2016-10-29
 
   * Backport PR#1176
