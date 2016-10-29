@@ -75,7 +75,7 @@ EOF
     f.puts("    define.amd = {};")
     f.puts(File.read("./node_modules/samsam/lib/samsam.js"))
     f.puts(File.read("./node_modules/formatio/lib/formatio.js"))
-    f.puts(File.read("./node_modules/lolex/lolex.js"))
+    f.puts(File.read("./node_modules/@hola.org/lolex/lolex.js"))
     f.puts("  })();")
     # mask the real define from the code so that it doesn't use it internally
     f.puts("  var define;")
