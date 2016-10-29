@@ -1,7 +1,7 @@
 {
   "name": "@hola.org/sinon",
   "description": "JavaScript test spies, stubs and mocks.",
-  "version": "1.17.7-hola.3",
+  "version": "1.17.7-hola.4",
   "homepage": "http://sinonjs.org/",
   "author": "Christian Johansen",
   "repository": {

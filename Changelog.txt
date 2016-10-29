@@ -1,3 +1,7 @@
+v1.17.7-hola.4 / 2016-10-29
+
+  * Fix loading patched lolex
+
 v1.17.7-hola.3 / 2016-10-29
 
   * Include patched lolex
